@@ -1,4 +1,4 @@
 [core]
     remote = data
 ['remote "data"']
-    url = s3://DUPLOSERVICES-UDPOPS-UDOPS-979105248912/remotehinglish
+    url = s3://DUPLOSERVICES-UDPOPS-UDOPS-979105248912/remote/hinglish
